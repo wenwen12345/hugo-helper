@@ -16,4 +16,4 @@ services:
 
 networks:
   hugo-net:
-    driver: bridge 
+    driver: bridge
